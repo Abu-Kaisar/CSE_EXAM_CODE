@@ -1,4 +1,3 @@
 # CSE_EXAM_CODE
 PINIKK
-## CSE
-## CDI
+## CSE CDI
